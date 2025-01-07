@@ -10,7 +10,7 @@ const Food = () => {
       
       <header className="text-center mb-8">
         <h2 className="text-3xl sm:text-4xl font-bold">
-          Delicious <span className="text-accent">Food</span>
+          Delicious <span className="text-accent">Food 1</span>
         </h2>
         <p className="text-lg text-gray-600 mt-2">Delicious dishes just for you!</p>
       </header>
